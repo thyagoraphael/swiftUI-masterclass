@@ -19,6 +19,4 @@ Este curso swiftUI é diferente de qualquer outro tutorial de vídeo desatualiza
 
 - [Link para o Curso](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
 
----
-
-Thyago Raphael :wave: - O Noob do iOS  ♥
+Thyago Raphael - O Noob do iOS  ♥
