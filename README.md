@@ -6,8 +6,6 @@
     <img alt="SwiftUI Masterclass 2021 - iOS 15 App Development & Swift 5" title="SwiftUI Masterclass 2021 - iOS 15 App Development & Swift 5" src="./images/image.png" /> 
 </h1>
 
-<br>
-
 ## 🔖  Sobre o Curso
 
 Este curso swiftUI é diferente de qualquer outro tutorial de vídeo desatualizado. Vamos construir excelentes aplicativos para iOS, iPadOS, watchOS e até macOS com SwiftUI. Vamos encarar a verdade de que a maioria dos cursos de desenvolvimento swiftui e até mesmo iOS ensinam como construir aplicações feias e hediosas, mas não esta. O curso completo de Masterclass SwiftUI 15 completo do total iniciante ao desenvolvedor avançado de aplicativos para iOS (2021 Edition).
